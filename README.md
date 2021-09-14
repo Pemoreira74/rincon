@@ -5,4 +5,4 @@ Principal Componentes Analisys (PCA): Exploratory analisys of water potability d
 
 naive_bayes.ipynb
 
-This started as a good exercise to apply naive_bayes model but quickly turns out in a messy scrambled garbage between data, code, comments and differrent and unrelated methods
+This started as a good exercise to apply naive_bayes model. The idea of this work is to experiment with the code to draw as many conclusions as possible
