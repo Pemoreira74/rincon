@@ -1,9 +1,3 @@
-Trabajos de investicación para la facultad en Python
+Principal Componentes Analisys (PCA): 
 
-Componentes principales
-
-Bayes Ingenuo
-
-Clasificadores bayesianos
-
-Discriminante lineal/cuadrático
+Exploratory analisys of water potability dataset with PCA Just an introductory exercise without any practical use :)
