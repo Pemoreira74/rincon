@@ -16,3 +16,9 @@ Tp1.ipynb
 First work presented in statistical inference and pattern recognition. The idea was to work with a database (https://www.kaggle.com/adityakadiwal/water-potability) and apply the principal components technique (PCA) to draw conclusions about the veracity of the data.
 
 Primer trabajo presentado en Inferencia Estadística y Reconocimiento de Patrones. La idea era trabajar con una base de datos ( https://www.kaggle.com/adityakadiwal/water-potability) y aplicar la tecnica de componentes principales (PCA) para sacar conclusiones sobre la veracidad de los datos.
+
+Tp2
+
+Work for Statistical Inference and Pattern Recognition. The first idea was to train a model with a database applying Naive Bayes and the principal components technique (PCA) to draw conclusions about the way the trained model works.
+
+Trabajo para Inferencia Estadística y Reconocimiento de Patrones. La idea primera experiencia en entrenamiento de un modelo con una base de datos apicando Bayes Ingenuo y  la tecnica de componentes principales (PCA) para sacar conclusiones sobre la forma de funcionamiento del modelo entrenado
